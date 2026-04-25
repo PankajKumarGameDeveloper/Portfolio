@@ -1,0 +1,3 @@
+- Engineered the core endless runner mechanics and obstacle generation systems.
+- Designed and implemented the complete UI setup for menus and gameplay overlays.
+- Built robust data handlers integrating Firebase for analytics and cloud save functionality.

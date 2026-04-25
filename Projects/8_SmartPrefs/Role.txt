@@ -1,0 +1,2 @@
+- Designed and developed the SmartPref utility end-to-end for the Unity Asset Store.
+- Managed the entire lifecycle of the Unity Asset Store package, including uploading, continuous updating, and documentation maintenance.

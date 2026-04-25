@@ -1,0 +1,5 @@
+- Developed the game end-to-end.
+- Programmed core game logic, enemy behaviors, and animations on Unity ECS.
+- Designed and implemented UIs.
+- Handled complete environment setup.
+- Implemented and tuned high-performance ECS Physics for dynamic structural collapse.

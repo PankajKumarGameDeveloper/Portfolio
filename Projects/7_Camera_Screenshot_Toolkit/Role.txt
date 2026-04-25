@@ -1,0 +1,3 @@
+- Designed and developed the Camera Screenshot Toolkit end-to-end for the Unity Asset Store.
+- Implemented robust texture manipulation logic to capture high-quality screenshots seamlessly across Built-in, URP, and HDRP render pipelines.
+- Managed the entire lifecycle of the Unity Asset Store package, including uploading, continuous updating, and documentation maintenance.

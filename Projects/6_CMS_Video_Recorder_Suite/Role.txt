@@ -1,0 +1,3 @@
+- Responsible for the end-to-end development of the video recording suite.
+- Engineered highly-optimized C# and C++ pipelines for real-time video and audio encoding without dropping frames.
+- Managed the entire lifecycle of the Unity Asset Store package, including uploading, continuous updating, and documentation maintenance.

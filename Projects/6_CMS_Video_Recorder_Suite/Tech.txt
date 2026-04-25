@@ -1,0 +1,6 @@
+Unity
+C#
+C++
+C# Threading
+Texture Manipulation
+Audio and Video Encoding

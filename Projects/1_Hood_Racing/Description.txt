@@ -1,0 +1,3 @@
+Hood Racing is an innovative, geolocation-based drag racing game that combines the competitive mechanics of CSR Racing with the real-world exploration of Pokémon Go. Players compete for dominance over real-world arenas, earning passive rewards until defeated by challengers.
+
+The game features a deep economy where players purchase, rent, and manage geographically-tied garages to store their vehicles. Cars can be extensively customized—from paint jobs and tires to nameplates and interiors—and upgraded for peak performance. The experience also includes realistic vehicle maintenance mechanics and a unique 'Gallery' feature, rewarding players for visiting specific real-world locations to capture and share photos.

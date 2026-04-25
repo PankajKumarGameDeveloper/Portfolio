@@ -1,0 +1,3 @@
+The Fracture ECS Toolkit is a powerful and modular destruction system built entirely on Unity’s Entity Component System (ECS). Easily fracture 3D objects into dynamic chunks at runtime. Designed for performance and flexibility, it supports mesh and material customization, particle effects, prefab spawning, and post-fracture logic.
+
+Perfect for physics-based games, destructible environments, or procedural effects. Includes authoring components, runtime asset saving, and clean integration with Unity DOTS workflows.

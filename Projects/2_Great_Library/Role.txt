@@ -1,0 +1,4 @@
+- Programmed the core turn-based battle logic, ensuring each card's unique abilities function seamlessly.
+- Designed and implemented intuitive UI flows for navigation, card management, and combat scenarios.
+- Developed the 2D player movement system for fluid room-to-room traversal.
+- Handled the environment setup and level structuring to create immersive puzzle rooms.

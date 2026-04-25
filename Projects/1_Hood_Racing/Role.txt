@@ -1,0 +1,7 @@
+- Engineered drag race logic based on Animation Curves for smooth and predictable racing mechanics.
+- Built Shader Graphs to enable comprehensive car customization (color, tires, nameplates, etc.).
+- Architected the UI setup and implemented seamless UI flows across the entire game.
+- Developed engaging in-game animations.
+- Integrated third-party SDKs including Mapbox for geolocation, Ads, and In-App Purchases (IAP).
+- Responsible for end-to-end Unity development for the complete game cycle.
+- Designed the full environment layout and established the lighting setup.

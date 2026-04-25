@@ -1,0 +1,19 @@
+SUMMARYPROFESSIONAL  EXPERIENCEEDUCATIONSKILLSLANGUAGESMohali ,  Indiapankajkumar76611 @ gmail . com
++ 91  7561982164PANKAJ  KUMARAssociate  Software  DeveloperEngineering  graduate  with  more  than  3  years  of  experience  as  a  Unity  3D  developer ,  specializing  in  C # ,  and  datastructures .  Skilled  in  Unity  ECS ,  game  mechanics  design ,  performance  optimization ,  and  API  integration .
+Passionate  about  crafting  interactive  and  dynamic  gameplay  experiences  through  technical  precision  andcreative  innovation .
+Chicmic  Studios   |  November  2024  -  PresentContributed  to  games  like  The  Great  Library ,  ICEY  and  Bent  OnDestructionCreated  Unity  Asset  Store  packages  named  EZAPI ,  ECS  Destruction  Toolkitand  Smart  Prefs .
+Developed  a  baseball  controller  within  Terra ’ s  environmentChicmic  Technologies  LLP  |  Jan  2023  -  Aug  2023Assisted  in  Unity  game  development  and  debuggingPGDCAJanuary  2025  -  December  2025B . E .  ( ECE )  
+August  2019  -  August  2023Unity  and  C #  developmentAnimation  system  
+User  interfaceAPI  integration  and  socket  programmingMapbox  integrationHighrise  Studio  expertiseLua  and  C + +  programmingData  structures  and  algorithmsUnity  physics  simulationShader  graph  
+Entity  Component  SystemVersion  control  
+HindiEnglishAssociate  Software  DeveloperInternIGNOU  ( New  Delhi )
+Panjab  University  SSGRCAssociate  Software  DeveloperChicmic  Technologies  LLP   |  Aug  2023  -  November  2024Contributed  to  games  like  Hood  Racing ,  Robbie  Steal  and  Survivor  IOMultiplayerBuilt  games  in  Highrise  Studio  using  LuaIntegrated  APIs  and  sockets  to  improve  functionalityDesigned  game  mechanics  in  collaboration  with  artistsPORTFOLIO12th  PCMMarch  2017  -  March  2019Progressive  Central  SchoolHood  Racing  –  GPS-based  drag  racing  game  inspired  by  CSR  Racing  &  Pok é monGo  
+       Video  ReferenceColor  Dash  ( Highrise )  –  Fast-paced  reflex  game  using  Lua  and  UI  Builder  
+      App  LinkAdopt  Me  ( Highrise )  –  Family  Simulation  game  
+      App  LinkRobbie  Steal  –  2D  stealth  platformer  with  Enemy  Monsters  and  collectibles  
+      App  LinkThe  Great  Library  –  Card-based  battle / exploration  gameEZAPI  ( Unity  Asset  Store )  –  API  integration  toolkit  
+       EZAPIESC  Destruction  Toolkit  –  Runtime  mesh  destruction  using  Unity  ECS  +  NVIDIABlast  
+      ECS  Destruction  ToolkitSmart  Prefs  -  Proper  Wrapper  For  Local  Game  Save  With  Data  Versioning ,  DataSectioning  and  Data  Caching   
+       Smart  PrefsBaseball  Controller  ( Terra )  –  Baseball  controllerChicMic  In-House  Games  –  Bug  fixes ,  updates  and  feature  addition ,  etc .
+       Play  Store  LinkBent  On  Destruction  ( Ongoing )  –  Physics-based  destruction  game  with  UnityDOTS
+       Bent  On  Destruction

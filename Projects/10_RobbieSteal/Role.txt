@@ -1,0 +1,3 @@
+- Handled critical bug fixes to ensure a seamless and polished gameplay experience.
+- Integrated Apple Sign-In and Google Sign-In for frictionless user authentication.
+- Architected robust data persistency systems to save player progress and puzzle states securely.

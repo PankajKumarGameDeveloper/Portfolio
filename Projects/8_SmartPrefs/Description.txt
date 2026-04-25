@@ -1,0 +1,3 @@
+SmartPref is a powerful and easy-to-use replacement for Unity’s built-in PlayerPrefs. It adds versioning, namespacing (sections), caching, and JSON-based file saving so you can safely manage player data across updates, multiple save slots, and user profiles. 
+
+Store any data type (custom classes, structs, lists) and separate data into sections. It features dual save modes (PlayerPrefs or JSON FileSystem), in-memory caching for performance, Base64 encoding for security, and seamless cross-platform compatibility. SmartPref gives you the flexibility of PlayerPrefs, the reliability of JSON, and the performance of caching—all in one robust API.

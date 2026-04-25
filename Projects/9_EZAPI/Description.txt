@@ -1,0 +1,3 @@
+EzAPI is a Unity package that turns messy web requests into a clean, configurable API layer. Instead of scattering UnityWebRequest code and hard-coded URLs across your project, you define your endpoints once in an editor Settings window and access them via a type-safe EndPoints enum.
+
+You configure base URLs, environments, and behaviors using APIConfig ScriptableObjects, then swap them per build without touching code. Each API call uses strongly-typed request and response classes. Under the hood, EzAPI provides request queuing, configurable max concurrent requests, retries, and structured error codes. The result is a robust, production-ready API system that lets you focus on gameplay instead of low-level networking details.

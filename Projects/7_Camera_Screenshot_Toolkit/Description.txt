@@ -1,0 +1,3 @@
+The Camera Screenshot Toolkit is an essential, high-performance tool for Unity developers to capture customizable, high-quality screenshots directly from their projects. Fully compatible with Built-in, URP, and HDRP render pipelines, it offers seamless integration for capturing in-game content, promotional material, or VR/AR views. 
+
+Key features include multiple output formats (PNG, JPG, EXR), customizable resolutions, and flexible saving to persistent data or custom paths. Supporting both asynchronous and synchronous captures with minimal performance impact, it’s the perfect solution for game developers and studios needing robust screenshot functionality.

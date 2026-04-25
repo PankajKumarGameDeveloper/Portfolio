@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pankaj Kumar | Portfolio</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Animation Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo"></div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="hero-content fade-in-up">
+                <span class="greeting">Hi, my name is</span>
+                <h1 class="glitch-text" data-text="Pankaj Kumar">Pankaj Kumar</h1>
+                <h2 class="subtitle">I craft dynamic gameplay experiences.</h2>
+                <p class="description">
+                    I’m a Unity 3D Developer specializing in C#, high-performance systems, and Unity ECS. I engineer immersive gameplay experiences and robust technical solutions, focusing on technical precision to push the boundaries of interactive entertainment.
+                </p>
+                <div class="hero-cta">
+                    <a href="#projects" class="btn btn-primary">Check out my work</a>
+                    <a href="PANKAJ KUMAR.pdf" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
+                        <i class="fas fa-file-download"></i> Download Resume
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about section-padding">
+            <div class="section-heading reveal">
+                <h2>About Me</h2>
+                <div class="line"></div>
+            </div>
+            
+            <div class="about-content reveal">
+                <div class="about-text">
+                    <p>I'm an Associate Software Developer and Engineering graduate with more than 3 years of experience as a Unity 3D developer, specializing in C# and data structures. I have a deep technical background in Unity ECS, game mechanics design, performance optimization, and API integration.</p>
+                    <p>I am passionate about crafting interactive and dynamic gameplay experiences through technical precision and creative innovation. My work focuses on building robust, scalable systems that push the boundaries of real-time interaction.</p>
+                    
+                    <p>Here are the technologies and skills I specialize in:</p>
+                    <ul class="skills-list full-width">
+                        <li>Unity & C# Development</li>
+                        <li>Entity Component System (ECS)</li>
+                        <li>Data Structures & Algorithms</li>
+                        <li>API Integration & Sockets</li>
+                        <li>Unity Physics Simulation</li>
+                        <li>Shader Graph & Animations</li>
+                        <li>Highrise Studio (Lua)</li>
+                        <li>Version Control (Git)</li>
+                        <li>Mapbox & Cesium</li>
+                        <li>C++ Programming</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education" class="education section-padding">
+            <div class="section-heading reveal">
+                <h2>Education</h2>
+                <div class="line"></div>
+            </div>
+            <div class="education-content reveal">
+                <div class="education-grid">
+                    <div class="edu-item glass-card">
+                        <div class="edu-dot"></div>
+                        <div class="edu-info">
+                            <h4>PGDCA</h4>
+                            <p class="edu-school">IGNOU (New Delhi)</p>
+                            <span class="edu-date">2025 - Present</span>
+                        </div>
+                    </div>
+                    <div class="edu-item glass-card">
+                        <div class="edu-dot"></div>
+                        <div class="edu-info">
+                            <h4>B.E. (ECE)</h4>
+                            <p class="edu-school">Panjab University SSGRC</p>
+                            <span class="edu-date">2019 - 2023</span>
+                        </div>
+                    </div>
+                    <div class="edu-item glass-card">
+                        <div class="edu-dot"></div>
+                        <div class="edu-info">
+                            <h4>12th PCM</h4>
+                            <p class="edu-school">Progressive Central School</p>
+                            <span class="edu-date">2017 - 2019</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="experience section-padding">
+            <div class="section-heading reveal">
+                <h2>Where I've Worked</h2>
+                <div class="line"></div>
+            </div>
+            <div class="experience-container glass-card reveal">
+                <div class="experience-tabs">
+                    <button class="tab-btn active" data-target="job1">Chicmic Studios</button>
+                    <button class="tab-btn" data-target="job2">Chicmic Technologies LLP</button>
+                    <button class="tab-btn" data-target="job3">Internship</button>
+                </div>
+                
+                <div class="experience-content">
+                    <!-- Chicmic Studios -->
+                    <div class="job-panel active" id="job1">
+                        <h3>Associate Software Developer <span class="company">@ Chicmic Studios</span></h3>
+                        <p class="range">Nov 2024 - Present</p>
+                        <ul>
+                            <li>Contributed to high-profile games like The Great Library, ICEY, and Bent On Destruction.</li>
+                            <li>Created Unity Asset Store packages including EZAPI, ECS Destruction Toolkit, and Smart Prefs.</li>
+                            <li>Developed a high-performance baseball controller within the Terra environment.</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Chicmic Tech (ASD) -->
+                    <div class="job-panel" id="job2">
+                        <h3>Associate Software Developer <span class="company">@ Chicmic Technologies LLP</span></h3>
+                        <p class="range">Aug 2023 - Nov 2024</p>
+                        <ul>
+                            <li>Contributed to major titles like Hood Racing, Robbie Steal, and Survivor IO Multiplayer.</li>
+                            <li>Built complex games in Highrise Studio using Lua and optimized UI flows.</li>
+                            <li>Integrated advanced APIs and sockets to enhance real-time game functionality.</li>
+                            <li>Collaborated directly with artists to design and implement core game mechanics.</li>
+                        </ul>
+                    </div>
+
+                    <!-- Internship -->
+                    <div class="job-panel" id="job3">
+                        <h3>Software Developer Intern <span class="company">@ Chicmic Technologies LLP</span></h3>
+                        <p class="range">Jan 2023 - Aug 2023</p>
+                        <ul>
+                            <li>Assisted in end-to-end Unity game development and debugging for various mobile projects.</li>
+                            <li>Learned industry standards for game optimization, core game loops, and version control.</li>
+                            <li>Optimized existing codebases and resolved critical bugs in active projects.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects section-padding">
+            <div class="section-heading reveal">
+                <h2>Some Things I've Built</h2>
+                <div class="line"></div>
+            </div>
+
+            <div id="projects-grid" class="projects-grid">
+                <!-- Projects will be rendered dynamically from projects_data.js -->
+            </div>
+        </section>
+
+
+
+
+
+
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact section-padding reveal">
+            <div class="contact-content glass-card text-center">
+                <h2 class="title">Get In Touch</h2>
+                <p class="desc">
+                    I am currently seeking new opportunities to craft immersive gameplay experiences! Whether you have a question, a project idea, or just want to connect, my inbox is always open.
+                </p>
+                <a href="mailto:pankajkumar76611@gmail.com" id="email-btn" class="btn btn-primary btn-lg">Say Hello</a>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/pankaj-kumar-a0006417a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="javascript:void(0)" id="phone-copy" aria-label="Phone" title="Click to copy phone number"><i class="fas fa-phone"></i></a>
+        </div>
+        <p class="copyright">
+            &copy; 2026 Pankaj Kumar
+        </p>
+    </footer>
+
+    <!-- Project Modal -->
+    <div id="project-modal" class="modal">
+        <div class="modal-content glass-card">
+            <button class="modal-close" aria-label="Close Modal"><i class="fas fa-times"></i></button>
+            
+            <div class="modal-body">
+                <div class="modal-media-wrapper">
+                    <button class="slider-btn prev-btn" id="modal-prev-btn" aria-label="Previous Media"><i class="fas fa-chevron-left"></i></button>
+                    <div class="modal-media" id="modal-media-container">
+                        <!-- Media will be injected here -->
+                    </div>
+                    <button class="slider-btn next-btn" id="modal-next-btn" aria-label="Next Media"><i class="fas fa-chevron-right"></i></button>
+                </div>
+                
+                <div class="modal-info">
+                    <div class="project-header">
+                        <h3 class="project-title" id="modal-title">Project Title</h3>
+                        <div class="project-links" id="modal-links">
+                            <!-- Links will be injected here -->
+                        </div>
+                    </div>
+                    
+                    <div class="project-description" id="modal-description">
+                        <!-- Description will be injected here -->
+                    </div>
+                    
+                    <div id="modal-role">
+                        <!-- Role will be injected here -->
+                    </div>
+                    
+                    <div id="modal-tech">
+                        <!-- Tech list will be injected here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="projects_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

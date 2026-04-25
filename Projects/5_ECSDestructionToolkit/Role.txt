@@ -1,0 +1,3 @@
+- Responsible for the end-to-end development of the package.
+- Built a robust, market-ready Unity Asset Store package (not a standalone game), ensuring high code quality, documentation, and DOTS workflow integration.
+- Managed the entire lifecycle of the Unity Asset Store package, including uploading, continuous updating, and documentation maintenance.

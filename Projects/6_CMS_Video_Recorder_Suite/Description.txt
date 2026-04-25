@@ -1,0 +1,3 @@
+CMSVideoRecorderSuite is a high-performance, production-ready gameplay recording solution for Unity developers building Windows applications. Unlike other tools, it fully supports Mono and IL2CPP without relying on unstable child processes or bloated external dependencies. 
+
+It features true full-screen capture, specific camera renders, high-quality audio recording, and real-time encoding with pause/resume functionality. Optimized for multi-tasking and long sessions, it delivers export-ready outputs via a clean, developer-friendly API.

@@ -1,0 +1,2 @@
+- Responsible for the end-to-end development of the package.
+- Managed the entire lifecycle of the Unity Asset Store package, including uploading, continuous updating, and documentation maintenance.
