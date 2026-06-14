@@ -1,0 +1,2 @@
+- End to end Frontend and UI
+- Designed and implemented the path logic, API and socket connections, 3D Terrains, Localizations, Map Layers and Auto Play, Configs, etc.

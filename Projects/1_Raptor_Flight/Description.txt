@@ -1,0 +1,14 @@
+Interactive aviation map and cabin experience platform designed for premium onboard entertainment systems.
+
+The application provides high-quality 3D map visualization, flight-related geographic content, points of interest, and interactive location-based experiences optimized for onboard systems and connected displays.
+
+Features may include:
+
+Real-time and interactive 3D map rendering, 
+Global terrain and geographic visualization, 
+City and landmark information, 
+Points of interest and informational content, 
+Optimized performance for embedded and aviation-related environments and
+Modern touch-friendly user interface.
+
+The application is designed for specialized deployments and integrated entertainment solutions.
